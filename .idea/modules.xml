@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandlingPractice/ExceptionHandlingPractice.iml" filepath="$PROJECT_DIR$/ExceptionHandlingPractice/ExceptionHandlingPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultilevelInheritancePractice/MultilevelInheritancePractice.iml" filepath="$PROJECT_DIR$/MultilevelInheritancePractice/MultilevelInheritancePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolymorphismPractice/PolymorphismPractice.iml" filepath="$PROJECT_DIR$/PolymorphismPractice/PolymorphismPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeAssignments.iml" filepath="$PROJECT_DIR$/PracticeAssignments.iml" />
